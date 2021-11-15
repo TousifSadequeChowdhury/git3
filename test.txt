@@ -3,3 +3,4 @@ new lineeeee
 new line from git
 new line from git2
 new line from git3
+new line from file
